@@ -1,4 +1,4 @@
-import { configure } from '@testing-library/react';
+// import { configure } from '@testing-library/react';
 import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
